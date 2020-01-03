@@ -1,0 +1,12 @@
+{
+  "name": "p2-types",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "prisma2": "^2.0.0-preview019"
+  },
+  "dependencies": {
+    "@prisma/photon": "2.0.0-preview019"
+  }
+}
